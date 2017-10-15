@@ -1,0 +1,80 @@
+
+body{
+	background:url("../images/pattern-abstract-hd-wallpaper-1920x1200-6110.jpg");
+	background-size:cover;
+}
+
+p{
+	font-family: 'Slabo 27px', serif;
+}
+
+.headerbox{
+ padding: 50px;
+ margin:20px;
+ margin-top:50px;
+ background:#dfb2ff;
+ font-family: 'Lora', serif;
+ font-size:30px;
+ max-width:100%;
+ width:300px;
+ height:70px;
+
+}
+
+.mainsection {
+	background:#FFFFCC;
+	font-family: 'Slabo 27px', serif;
+	font-size:20px;
+	height:300px;
+	width:100%;
+	width:500px;
+	padding:30px;
+	margin:20px;
+	line-space:10px;
+
+}
+
+.scores {
+	background:#E5E5FF;
+	height:200px;
+	width:300px;
+	margin:20px;
+	font-family: 'Lora', serif;
+	display:inline-block;
+
+	
+
+}
+
+
+.thewinandlose {
+	background:#dfb2ff;
+	width:200px;
+	height:200px;
+	display:inline-block;
+	padding:10px;
+
+}
+
+.images {
+	display:block;
+	
+	width:550px;
+	background:white;
+	margin-top:10px;
+
+
+}
+
+.yourscoreis {
+	margin-top:20px;
+	font-family: 'Lora', serif;
+	margin:20px;
+	padding:10px;
+	
+	height:30px;
+	
+	width:300px;
+	background:#dfb2ff;
+
+}
